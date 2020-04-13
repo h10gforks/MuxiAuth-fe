@@ -2,9 +2,7 @@
     <div class="wrap">
         <div class="no-footer">
             <div class="header text-align full-width">
-                <svg class="logo" viewBox="0 0 200 200">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use>
-                </svg>
+                
             </div>
             <div class="full-height full-width main">
                 <div class="top">
@@ -28,17 +26,9 @@
         </div>
         <div class="footer-copy full-width" v-bind:class="{display: footer_display || email_focus || username_focus}">
             <div class="footer full-width">
-                <a href="https://xueer.muxixyz.com" class="word word-change text-align">学而</a>
-                <a href="http://www.muxixyz.com" class="word word-change text-align">木犀团队</a>
-                <a href="https://ccnubox.muxixyz.com" class="word word-change text-align">华师匣子</a>
             </div>
             <div class="full-width">
-                <div class="copyright text-align">
-                    华中师范大学木犀团队
-                </div>
-                <div class="copyright text-align">
-                    Hello from Wuhan，2014-2017 MuxiStudio
-                </div>
+                
             </div>
         </div>
     </div>

@@ -16,7 +16,7 @@ module.exports = {
     },
     output: {
         path: path.join(__dirname, "dist"),
-        publicPath: 'https://static.muxixyz.com/muxiauth',
+        publicPath: 'https://picturesbed.oss-cn-hangzhou.aliyuncs.com/muxiauth',
         filename: 'static/[name].1.1.3.js'
     },
     devtool: '#eval-source-map',

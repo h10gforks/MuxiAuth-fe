@@ -2,7 +2,7 @@
     <div class="wrap">
         <div class="no-footer">
             <a href="https://user.muxixyz.com" class="back inline-block">
-                < 返回</a>
+                <a> 返回</a>
                     <div class="header  full-width inline-block">
                         <div class="title-find text-align">
                             找回密码
@@ -16,17 +16,10 @@
         </div>
         <div class="footer-copy full-width">
             <div class="footer full-width">
-                <a href="http://xueer.muxixyz.com" class="word word-change text-align">学而</a>
-                <a href="http://www.muxixyz.com" class="word word-change text-align">木犀团队</a>
-                <a href="http://share.muxixyz.com/" class="word word-change text-align">木犀分享</a>
+                
             </div>
             <div class="full-width">
-                <div class="copyright text-align">
-                    华中师范大学木犀团队
-                </div>
-                <div class="copyright text-align">
-                    Hello from Wuhan，2014-2017 MuxiStudio
-                </div>
+                
             </div>
         </div>
     </div>
